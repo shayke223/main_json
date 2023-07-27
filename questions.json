@@ -1,9 +1,18 @@
 {
-  "Id": "1",
-  "HebrewDesc": "מה עדיף?",
-  "EnglishDesc": "What would you",
-  "Option1": "option a",
-  "Option2": "option b",
-  "Option3": "option b",
-  "Fav": "1"
+  "questions": [
+    {
+      "Id": "1",
+      "HebrewDesc": "מה עדיף?",
+      "EnglishDesc": "What would you",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "correctOptionIndex": 1
+    },
+    {
+      "Id": "2",
+      "HebrewDesc": "sssמה עדיף?",
+      "EnglishDesc": "What would you",
+      "options": ["a", "b", "c", "d"],
+      "correctOptionIndex": 1
+    }
+  ]
 }
