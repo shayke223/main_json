@@ -2,17 +2,15 @@
   "questions": [
     {
       "Id": "1",
-      "HebrewDesc": "מה עדיף?",
-      "EnglishDesc": "What would you",
-      "options": ["London", "Paris", "Berlin", "Madrid"],
-      "correctOptionIndex": 1
+      "option1": "shay",
+      "option2": "gal",
+      "percentage1": 27
     },
     {
-      "Id": "2",
-      "HebrewDesc": "sssמה עדיף?",
-      "EnglishDesc": "What would you",
-      "options": ["a", "b", "c", "d"],
-      "correctOptionIndex": 1
+      "Id": "1",
+      "option1": "tal",
+      "option2": "hana",
+      "percentage1": 33
     }
   ]
 }
