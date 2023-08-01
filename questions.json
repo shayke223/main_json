@@ -1,4 +1,5 @@
 {
+  "lastUpdate": "2023-07-28",
   "questions": [
     {
       "Id": "1",
@@ -11,6 +12,36 @@
       "option1": "tal",
       "option2": "hana",
       "percentage1": 33
+    },
+    {
+      "Id": "3",
+      "option1": "AAAAAAAA",
+      "option2": "BBBBBBB",
+      "percentage1": 49
+    },
+    {
+      "Id": "4",
+      "option1": "עברית",
+      "option2": "או ככה",
+      "percentage1": 77
+    },
+    {
+      "Id": "5",
+      "option1": "FDS",
+      "option2": "FDS",
+      "percentage1": 12
+    },
+    {
+      "Id": "6",
+      "option1": "YYYY",
+      "option2": "DSDF ONE",
+      "percentage1": 4
+    },
+    {
+      "Id": "7",
+      "option1": "XXXX",
+      "option2": "TTTT",
+      "percentage1": 4
     }
   ]
 }
