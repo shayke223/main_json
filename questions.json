@@ -60,7 +60,187 @@
       "option1": "שמש",
       "option2": "גשם",
       "percentage1": 70
-    }
+    },
+     {
+    "Id": "12",
+    "option1": "חתול",
+    "option2": "כלב",
+    "percentage1": 55
+  },
+  {
+    "Id": "13",
+    "option1": "טלוויזיה",
+    "option2": "מחשב",
+    "percentage1": 45
+  },
+  {
+    "Id": "14",
+    "option1": "מזגן",
+    "option2": "מאוורר",
+    "percentage1": 60
+  },
+  {
+    "Id": "15",
+    "option1": "ספר",
+    "option2": "כתב עת",
+    "percentage1": 35
+  },
+  {
+    "Id": "16",
+    "option1": "בקבוק פלסטיק",
+    "option2": "בקבוק זכוכית",
+    "percentage1": 70
+  },
+  {
+    "Id": "17",
+    "option1": "קולה",
+    "option2": "פפסי",
+    "percentage1": 55
+  },
+  {
+    "Id": "18",
+    "option1": "ברזילאי",
+    "option2": "אמריקאי",
+    "percentage1": 40
+  },
+  {
+    "Id": "19",
+    "option1": "בניין גבוה",
+    "option2": "קומה רגילה",
+    "percentage1": 65
+  },
+  {
+    "Id": "20",
+    "option1": "דרך בר",
+    "option2": "סיבים חוצי ייצוביים",
+    "percentage1": 50
+  },
+  {
+    "Id": "21",
+    "option1": "בישול",
+    "option2": "אפייה",
+    "percentage1": 75
+  },
+     {
+    "Id": "22",
+    "option1": "היום",
+    "option2": "העתיד",
+    "percentage1": 50
+  },
+  {
+    "Id": "23",
+    "option1": "אמן",
+    "option2": "מדען",
+    "percentage1": 40
+  },
+  {
+    "Id": "24",
+    "option1": "שקט",
+    "option2": "מוזיקה",
+    "percentage1": 55
+  },
+  {
+    "Id": "25",
+    "option1": "ספורט",
+    "option2": "אמנות",
+    "percentage1": 60
+  },
+  {
+    "Id": "26",
+    "option1": "חובה",
+    "option2": "ברירה",
+    "percentage1": 45
+  },
+  {
+    "Id": "27",
+    "option1": "בוקר",
+    "option2": "ערב",
+    "percentage1": 65
+  },
+  {
+    "Id": "28",
+    "option1": "אהבה",
+    "option2": "תשוקה",
+    "percentage1": 50
+  },
+  {
+    "Id": "29",
+    "option1": "גוף",
+    "option2": "נפש",
+    "percentage1": 35
+  },
+  {
+    "Id": "30",
+    "option1": "פעולה",
+    "option2": "רצון",
+    "percentage1": 55
+  },
+  {
+    "Id": "31",
+    "option1": "שאלה",
+    "option2": "תשובה",
+    "percentage1": 70
+  },
+   {
+    "Id": "32",
+    "option1": "החלום הגדול",
+    "option2": "המציאות הקטנה",
+    "percentage1": 55
+  },
+  {
+    "Id": "33",
+    "option1": "נסיעה באווירת יוקרה",
+    "option2": "טיול על הכביש",
+    "percentage1": 40
+  },
+  {
+    "Id": "34",
+    "option1": "אכילת קוקסינלים לאלפיים",
+    "option2": "קילו של גלידה בטעם אחד",
+    "percentage1": 60
+  },
+  {
+    "Id": "35",
+    "option1": "פועל עם המוח",
+    "option2": "פועל עם הידיים",
+    "percentage1": 45
+  },
+  {
+    "Id": "36",
+    "option1": "נסיעה לחופשה בחו\"ל",
+    "option2": "חוויית נופש במדינה מקומית",
+    "percentage1": 70
+  },
+  {
+    "Id": "37",
+    "option1": "אינסטגרם פופולרי",
+    "option2": "פרטיות מוחלטת",
+    "percentage1": 55
+  },
+  {
+    "Id": "38",
+    "option1": "שיחה עם איש מובנה",
+    "option2": "הקשבה לשיר באוזניות",
+    "percentage1": 35
+  },
+  {
+    "Id": "39",
+    "option1": "להיות מאוד חכם ובעל ידע",
+    "option2": "להיות מאוד טוב לב",
+    "percentage1": 55
+  },
+  {
+    "Id": "40",
+    "option1": "לעוף כמו ציפור",
+    "option2": "לשחות כמו דג",
+    "percentage1": 60
+  },
+  {
+    "Id": "41",
+    "option1": "אפשרות לשמיעת מחשבות של אחרים",
+    "option2": "אפשרות לבלות בבדידות בטבע",
+    "percentage1": 75
+  } 
   ]
 
 }
