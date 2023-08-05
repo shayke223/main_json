@@ -2,46 +2,65 @@
   "lastUpdate": "2023-07-28",
   "questions": [
     {
-      "Id": "1",
-      "option1": "shay",
-      "option2": "gal",
-      "percentage1": 27
-    },
-    {
       "Id": "2",
-      "option1": "tal",
-      "option2": "hana",
-      "percentage1": 33
+      "option1": "קפה",
+      "option2": "תה",
+      "percentage1": 60
     },
     {
       "Id": "3",
-      "option1": "AAAAAAAA",
-      "option2": "BBBBBBB",
-      "percentage1": 49
+      "option1": "טלפון",
+      "option2": "טאבלט",
+      "percentage1": 45
     },
     {
       "Id": "4",
-      "option1": "עברית",
-      "option2": "או ככה",
-      "percentage1": 77
+      "option1": "משקה קר",
+      "option2": "משקה חם",
+      "percentage1": 55
     },
     {
       "Id": "5",
-      "option1": "FDS",
-      "option2": "FDS",
-      "percentage1": 12
+      "option1": "סרט",
+      "option2": "סדרה",
+      "percentage1": 30
     },
     {
       "Id": "6",
-      "option1": "YYYY",
-      "option2": "DSDF ONE",
-      "percentage1": 4
+      "option1": "בית",
+      "option2": "דירה",
+      "percentage1": 70
     },
     {
       "Id": "7",
-      "option1": "XXXX",
-      "option2": "TTTT",
-      "percentage1": 4
+      "option1": "גלידה",
+      "option2": "פאי",
+      "percentage1": 75
+    },
+    {
+      "Id": "8",
+      "option1": "אופניים",
+      "option2": "סקי",
+      "percentage1": 65
+    },
+    {
+      "Id": "9",
+      "option1": "עם חי",
+      "option2": "עם סגול",
+      "percentage1": 40
+    },
+    {
+      "Id": "10",
+      "option1": "טבע",
+      "option2": "עיר",
+      "percentage1": 55
+    },
+    {
+      "Id": "11",
+      "option1": "שמש",
+      "option2": "גשם",
+      "percentage1": 70
     }
   ]
+
 }
